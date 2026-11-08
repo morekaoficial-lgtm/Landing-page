@@ -2,7 +2,7 @@ import { defineConfig } from 'astro/config';
 import tailwind from '@astrojs/tailwind';
 
 export default defineConfig({
-  site: 'https://morekaoficial-lgtm.github.io',
+  site: 'http://k109.morekashop.com,
   base: '/Landing-page',
   integrations: [tailwind()]
 });
